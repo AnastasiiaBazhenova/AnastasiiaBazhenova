@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=500&lines=Hi+there!;I'm+Anastasiia%2C+QA-Engineer.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=500&lines=Nice+to+meet+you!)](https://git.io/typing-svg)
 
+![](https://github-readme-stats.vercel.app/api?username=AnastasiiaBazhenova&show_icons=true&theme=radical)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AnastasiiaBazhenova&theme=github-compact)
 
 ## Тестирование API и интеграций
