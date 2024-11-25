@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=500&lines=Hi+there!;I'm+Anastasiia%2C+QA%2BEngineer.+Nice+to+meet+you!)](https://git.io/typing-svg)
 
 
 ## Тестирование API и интеграций
@@ -46,6 +46,6 @@
 
 
 
-📫 **Cвязаться со мной**:
+## 📫 **Cвязаться со мной**:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/NastasyaBazh)
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:nastasyaalexbazhenova@yandex.ru)
