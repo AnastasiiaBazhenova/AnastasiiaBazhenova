@@ -1,5 +1,4 @@
 # Hi there 👋
-<div style="color:purple;">Hi there! I'm Anastasiia, QA+Engineer. Nice to meet you!</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=500&lines=Hi+there!;I'm+Anastasiia%2C+QA%2BEngineer.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=500&lines=Nice+to+meet+you!)](https://git.io/typing-svg)
