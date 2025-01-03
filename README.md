@@ -56,9 +56,12 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp
 </div>
 
-## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/AnastasiiaBazhenova/AnastasiiaBazhenova/refs/heads/main/Certificate.png)
+## Образование
+[<img src="/Certificate1.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/AnastasiiaBazhenova/AnastasiiaBazhenova/refs/heads/main/Certificate1.png)
+[<img src="/Certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/AnastasiiaBazhenova/AnastasiiaBazhenova/refs/heads/main/Certificate.png)
+ <!-- [<img src="/Letter2.png" width="280px" hspace="10px" alt="Рек пис»">](https://raw.ggithubusercontent.com/.png)   --> 
 
+<br>
 <br>
 
 ## 📫 **Cвязаться со мной**:
