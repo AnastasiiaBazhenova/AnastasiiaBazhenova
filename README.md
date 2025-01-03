@@ -56,10 +56,10 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp
 </div>
 
+## 🎒 Образование
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Certificate»">](https://raw.githubusercontent.com/AnastasiiaBazhenova/AnastasiiaBazhenova/refs/heads/main/Certificate.png)
 
-
-
-
+<br>
 
 ## 📫 **Cвязаться со мной**:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/NastasyaBazh)
