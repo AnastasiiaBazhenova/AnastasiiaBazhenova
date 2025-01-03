@@ -60,7 +60,6 @@
 [<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/AnastasiiaBazhenova/AnastasiiaBazhenova/refs/heads/main/Certificate.png)
 
 <br>
-<br>
 
 ## 📫 **Cвязаться со мной**:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/NastasyaBazh)
