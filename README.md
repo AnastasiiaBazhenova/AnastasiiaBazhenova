@@ -1,10 +1,10 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=500&lines=Hi+there!;I'm+Anastasiia%2C+QA-Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=500&lines=Hi+there!;I'm+Anastasia%2C+QA-Engineer.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=500&lines=Nice+to+meet+you!)](https://git.io/typing-svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=AnastasiiaBazhenova&show_icons=true&theme=radical)
-![](https://github-readme-activity-graph.vercel.app/graph?username=AnastasiiaBazhenova&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=AnastasiiaBazhenova&theme=modern-lilac)
 
 ## Тестирование API и интеграций
 <div>
@@ -44,6 +44,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
+## Автотесты
+<div>
+  <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
+</div>
 
 
 
